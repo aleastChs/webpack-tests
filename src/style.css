@@ -1,12 +1,4 @@
-@font-face {
-    font-family: 'ZIK';
-    src: url('zik.ttf') format('ttf');
-    font-weight: 600;
-    font-style: normal;
-}
-
 .hello {
     color: red;
-    font-family: 'ZIK';
     background: url('icon.png');
 }
