@@ -11,6 +11,7 @@
   "author": "aleastChs",
   "license": "MIT",
   "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
     "webpack": "^4.16.0",
     "webpack-cli": "^3.0.8",
     "xml-loader": "^1.2.1"
