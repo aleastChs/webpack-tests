@@ -4,15 +4,18 @@
   "private": true,
   "description": "This repo is to try out things in webpack, based for learning/testing new techs",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/aleastChs/webpack-tests"
+    "type": "git",
+    "url": "https://github.com/aleastChs/webpack-tests"
   },
-  "keywords": ["learning", "new techs"],
+  "keywords": [
+    "learning",
+    "new techs"
+  ],
   "author": "aleastChs",
   "bugs": {
-      "url": "https://github.com/aleastChs/webpack-tests/issues"
+    "url": "https://github.com/aleastChs/webpack-tests/issues"
   },
-  "license": "MIT",    
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
