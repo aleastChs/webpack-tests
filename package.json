@@ -3,14 +3,14 @@
   "version": "0.0.1",
   "private": true,
   "description": "This repo is to try out things in webpack, based for learning/testing new techs",
-  repository: {
-      type: "git",
-      url: "https://github.com/aleastChs/webpack-tests"
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/aleastChs/webpack-tests"
   },
   "keywords": ["learning", "new techs"],
   "author": "aleastChs",
-  bugs: {
-      url: "https://github.com/aleastChs/webpack-tests/issues"
+  "bugs": {
+      "url": "https://github.com/aleastChs/webpack-tests/issues"
   },
   "license": "MIT",    
   "scripts": {
